@@ -104,3 +104,19 @@ footer{
   color: white;
   padding-top: 7px;
 }
+.workimage{
+  width: 80%;
+} 
+
+#work{
+  text-align: center;
+  padding: 70px 7px;
+}
+#productos{
+  text-align: center;
+  padding: 70px 7px;
+}
+.imagen{
+  cursor: pointer;
+
+}
